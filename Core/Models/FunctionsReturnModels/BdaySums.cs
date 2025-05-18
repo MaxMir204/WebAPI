@@ -4,8 +4,8 @@
     {
         public decimal Sum { get; set; }
 
-        public string ClientName { get; set; } = "Ivan";
+        public string ClientName { get; set; } = "Maxim";
 
-        public string ClientLastname { get; set; } = "Ivanov";
+        public string ClientLastname { get; set; } = "Mironov";
     }
 }
